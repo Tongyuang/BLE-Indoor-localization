@@ -1,3 +1,3 @@
 # BLE Indoor Localization
 
-<font color=gray>created by @Tongyuang @Derrick Ding</font>
+Created by [@Tongyuang](https://github.com/Tongyuang/) and [@dykderrick](https://github.com/dykderrick).
